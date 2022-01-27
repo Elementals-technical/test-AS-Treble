@@ -1,0 +1,28 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.item {
+    transition: all .2s;
+    cursor: pointer;
+    display: flex;
+    font-size: 20px;
+    font-weight: 700;
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Chrome/Safari/Opera */
+    -khtml-user-select: none;
+    /* Konqueror */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+
+    &:hover {
+        color: green;
+    }
+}

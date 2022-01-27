@@ -1,0 +1,3 @@
+export const TYPE_REDUCER = {
+  EXAMPLE_ACTION: 'EXAMPLE_ACTION',
+};
