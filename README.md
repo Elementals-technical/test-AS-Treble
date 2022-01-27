@@ -1,7 +1,5 @@
-# За основу цієї початкової зборки взято Treble
-[Github Treble App](https://github.com/threekit/treble).
 
-## Початок розробки
+# Початок розробки
 Стягуємо всі залежності
 `npm install`
 
@@ -26,4 +24,8 @@ THREEKIT_ADMIN_FTS_PUBLIC_TOKEN=################
 `npm run start`
 
 Локальний сервер відкриється за цим портом [http://localhost:3000](http://localhost:3000).
+
+
+## За основу цієї початкової зборки взято Treble
+[Github Treble App](https://docs.treble.3kit.com/docs/welcome).
 
