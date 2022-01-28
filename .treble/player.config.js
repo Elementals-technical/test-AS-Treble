@@ -9,4 +9,8 @@ export default {
   // locale: undefined,
   allowMobileVerticalOrbit: false,
   // publishStage: undefined,
+  showLoadingProgress: {
+    loadingImage: false,
+  },
+  display: 'image',
 };

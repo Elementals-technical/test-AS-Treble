@@ -10,11 +10,10 @@
 }
 
 .tk-treble-player {
-  height: 100vh;
+  height: 50vh;
   position: sticky;
   top: 0;
 }
-
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
@@ -42,7 +41,7 @@ html {
 
 body {
   margin: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 /**
@@ -396,4 +395,9 @@ template {
 
 [hidden] {
   display: none;
+}
+
+.tk-treble-app {
+  display: flex;
+  flex-direction: column;
 }

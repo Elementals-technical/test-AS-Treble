@@ -11,12 +11,7 @@ export default {
   },
   products: {
     preview: {
-      assetId: 'b92dd49a-9c91-465c-a9a1-8e4cccc9c5d8',
-      configurationId: undefined,
-      stageId: undefined,
-    },
-    'admin-fts': {
-      assetId: 'b92dd49a-9c91-465c-a9a1-8e4cccc9c5d8',
+      assetId: 'd0088bc7-4ef9-4382-84d7-03cbfd7b9e4c',
       configurationId: undefined,
       stageId: undefined,
     },
